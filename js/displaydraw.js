@@ -11,6 +11,8 @@ var formats = ["8-Panel Strip", "9-Panel Strip", "6-Panel Strip",
 // TODO:Multiple obstructions
 // TODO:Add user input character names
 // TODO: Add a series of available warm-ups, let user input if this is first page of day
+// TODO: Maybe something like http://www.diddly.com/random/
+
 
 // Display a random prompt from an array
 function displayDraw(){
